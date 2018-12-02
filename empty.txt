@@ -1,1 +1,2 @@
+Add some contents into the txt file
 Change the contents of the text file
